@@ -1,0 +1,9 @@
+gpl==0.1.4
+nltk==3.9.1
+pandas==2.2.3
+omegaconf==2.3.0
+laion-clap
+transformers[torch]==4.46.3
+sentence-transformers==3.3.1
+torchvision==0.20.1
+rank_bm25
